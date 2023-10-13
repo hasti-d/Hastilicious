@@ -29,12 +29,19 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 linkedin_username: hasti-dave
 github_username:  Hastilicious
+instagram_username: Hastilitious
 
 # Build settings
 theme: minima
 
 plugins:
   - jekyll-feed
+
+include:
+
+  # My inclusions
+  - "_includes"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -43,15 +50,20 @@ plugins:
 #
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+
+exclude:
+
+  # Standard exclusions
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+  # My exclusions
+  - docs/
