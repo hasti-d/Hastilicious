@@ -4,13 +4,16 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "jekyll: serve",
+            "label": "bundle: jekyll: serve",
             "type": "process",
-            "command": "jekyll",
+            "command": "bundle",
             "args": [
+                "exec",
+                "jekyll",
                 "serve",
-                "--host",
-                "0.0.0.0"
+                "--host", "0.0.0.0",
+                "--watch",
+                "--trace",
             ],
             "problemMatcher": []
         },
