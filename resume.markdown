@@ -1,15 +1,15 @@
 ---
-layout: page
+layout: pdf
 title: Resume
-permalink: /resume/
+permalink: /resume
 ---
 
 # **Hasti D. - Health Data Analyst**
 
 <h5>
-    Pronouns: She/Her
-    <br/>
     Pronounced: Hus-tee
+    <br/>
+    Pronouns: She/Her
 </h5>
 
 _Expert health data analyst with a robust background in healthcare quality measurement and a knack for translating complex data into actionable insights. Adept at navigating diverse healthcare systems, ready to contribute to New Zealand's healthcare sector._
@@ -59,19 +59,6 @@ _____
 
 _____
 
-# Professional Memberships
-
-- Member, International Society for Quality in Health Care (ISQua)
-
-_____
-
-# Certifications
-
-- Certified Professional in Healthcare Quality (CPHQ)
-
-_____
-
 # Relocation
 
-- Relocating to New Zealand, November 2023
-
+- Relocating to New Zealand, October 2023
