@@ -4,7 +4,7 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "bundle: jekyll: serve",
+            "label": "bundle: jekyll: serve (Start Website) (Default)",
             "detail": "Run the Jekyll website locally to test it.",
             "icon": {
                 "color": "terminal.ansiGreen",
@@ -18,8 +18,8 @@
                 "serve",
                 "--host", "0.0.0.0",
                 "--watch",
-                "--incremental",
-                "--livereload",
+                // "--incremental",
+                // "--livereload",
                 "--trace",
             ],
             "group": {
@@ -35,7 +35,7 @@
             "problemMatcher": []
         },
         {
-            "label": "bundle: install",
+            "label": "bundle: install (Install Dependencies)",
             "detail": "Install the Ruby gems. (pakcages to use by web server)",
             "icon": {
                 "color": "terminal.ansiCyan",
@@ -46,6 +46,7 @@
             "args": [
                 "install"
             ],
+            "hide": true,
             "problemMatcher": [],
         },
     ]
