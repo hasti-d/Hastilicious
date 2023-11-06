@@ -32,10 +32,10 @@ _____
 
 # Skills Matrix
 
-| **Proficiencies**        | Azure Data Studio           | Claims and clinical data     | Service Now       |
-| Microsoft SQL Server     | SQL Server Management Studio| Python                       | Microsoft Office  |
-| Snowflake                | Oracle Developer Studio     | R                            | Microsoft Teams   |
-| Oracle                   | VS Code                     | Alteryx ETL Engine           | Power BI          |
+| **Proficiencies**        | Azure Data Studio           | Claims and clinical data     | Service Now    |
+| SQL Server               | SQL Server Management Studio| Python                       | MS Office      |
+| Snowflake                | Oracle Developer Studio     | R                            | MS Teams       |
+| Oracle                   | VS Code                     | Alteryx ETL Engine           | Power BI       |
 
 _____
 
