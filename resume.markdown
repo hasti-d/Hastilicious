@@ -4,32 +4,46 @@ title: Resume
 permalink: /resume
 ---
 
-# **Hasti D. - Health Data Analyst**
+# **Hasti Dave - Business Data Analyst**
 
-<h5>
-    Pronounced: Hus-tee
-    <br/>
-    Pronouns: She/Her
-</h5>
+> **E-Mail**: [dave.hasti@gmail.com](mailto:dave.hasti@gmail.com)
+> <br/>
+> **Phone#**: [021-275-5336](tel:+64212755336)
+> <br/>
+> **LinkedIn**: <a href="https://www.linkedin.com/in/hasti-dave/" target="_blank">https://www.linkedin.com/in/hasti-dave</a>
+> <br/>
+> **Citizenship**: Canadian
+> <br/>
+> **Visa**: Working Holiday Visa (Expires: October 2024) Eligible for any employer, any location, any role for 12 months with no restrictions. Visa eligible for extension of another 11 months or sponsorship. 
+> <br/>
+> **First Name Pronounced:** Hus-tee
+> <br/>
+> **Pronouns:** She/Her
 
-_Expert health data analyst with a robust background in healthcare quality measurement and a knack for translating complex data into actionable insights. Adept at navigating diverse healthcare systems, ready to contribute to New Zealand's healthcare sector._
+#### **Introduction:**
+
+Canadian citizen, currently in Auckland under a Working Holiday visa valid until October 2024, I bring a rich background in business data analysis. My experience is marked by a deep dive into requirements gathering, interpreting complex data needs, and preparing meticulous documentation to bridge the gap between data and decision-making.
+
+#### **Career Objective:**
+
+As I seek contract / fixed-term based roles as a Business Data Analyst in Auckland, my goal is to leverage my proficiency in SQL, Power BI, and my expertise as a Subject Matter Expert in healthcare performance metrics. I am committed to transforming business requirements into actionable data strategies, ensuring technical solutions align seamlessly with business objectives.
 
 _____
 
 # Skills Matrix
 
-| **Proficiencies**        | Azure Data Studio           | Claims and clinical data     | Service Now   |
-| SQL Server               | SQL Server Management Studio| Python                       | MS Office      |
-| Snowflake                | Oracle Developer Studio     | R                            | MS Teams       |
-| Oracle                   | VS Code                     | Alteryx ETL Engine           | Power BI       |
+| **Proficiencies**        | Azure Data Studio           | Claims and clinical data     | Service Now       |
+| Microsoft SQL Server     | SQL Server Management Studio| Python                       | Microsoft Office  |
+| Snowflake                | Oracle Developer Studio     | R                            | Microsoft Teams   |
+| Oracle                   | VS Code                     | Alteryx ETL Engine           | Power BI          |
 
 _____
 
 # Experience
 
-- #### [**CareFirst, Blue Cross Blue Shield of Maryland**](https://www.carefirst.com/) **, Baltimore, MD**
+- #### [**CareFirst, Blue Cross Blue Shield of Maryland**](https://www.carefirst.com/) **, Baltimore, Maryland, USA**
 
-    - #### Stars & Risk Adjusted Senior Analyst, Aug 2022 - Aug 2023
+    - #### **Business Analyst / Data Engineer, Aug 2022 - Aug 2023**
 
         - Executed comprehensive data analysis to unveil trends and insights, fostering data-driven decision-making among stakeholders.
         - Crafted intuitive dashboards and visualizations, simplifying complex data for diverse audiences.
@@ -41,14 +55,16 @@ _____
 
     <br />
 
-    - #### Health Informatics Analyst, June 2017 - July 2022
+    - #### **Business Analyst / Data Analyst, June 2017 - July 2022**
 
-        - Acquired in-depth knowledge of government health performance metrics/measures, and actively engaged in data discovery journeys with customers.
-        - Utilized SQL queries to extract, manipulate, and aggregate claims data, supporting CareFirst's Patient Centered Medical Home (PCMH) program with precise data analysis.
-        - Served as Subject Matter Expert (SME) for Member Level Quality Metrics (MLQM) and Quality Score Cards (QSC) methodologies, translating business requirements into technical specifications for the development team.
-        - Undertook a critical investigation on Provider Specialty on claims, enhancing [HEDIS](https://www.ncqa.org/hedis/measures/) and [NCQA](https://www.ncqa.org/) reporting accuracy by 4-6%.
-        - Developed Power BI Dashboards as self-service portals, facilitating easy data access for business units.
-        - Fostered collaborative relationships between developers and business units to deliver ETL pipelines efficiently.
+        - Conducted thorough requirements gathering sessions with stakeholders to identify business needs and translate them into functional specifications.
+        - Led the documentation process, creating detailed business requirements documents (BRDs), functional requirements documents (FRDs), and process flow diagrams to support system enhancements and reporting capabilities.
+        - Orchestrated user acceptance testing (UAT) with end-users to validate the functionality of data systems and reports, ensuring alignment with business requirements.
+        - Performed gap analyses to pinpoint discrepancies between existing processes and desired outcomes, providing actionable insights for process improvement.
+        - Liaised between business units and IT teams to clarify requirements, resulting in a more streamlined development process and fewer iterations.
+        - Facilitated regular training sessions for business users on new reports and dashboards, enhancing their understanding and ability to derive meaningful insights from data.
+        - Proactively identified opportunities for data quality improvements and worked with data governance teams to implement data standardization and cleansing processes.
+        - Implemented best practices for business intelligence (BI) and maintained an evolving knowledge base for BI tools and technologies, contributing to the team's continuous learning and development.
 
 _____
 
@@ -61,4 +77,4 @@ _____
 
 # Relocation
 
-- Relocating to New Zealand, October 2023
+- Relocated to New Zealand, October 2023 under working Holiday Visa. Eligible for any employer, any location, any role for 12 months with no restrictions. Visa eligible for extension of another 11 months or sponsorship. 
