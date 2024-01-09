@@ -35,6 +35,7 @@
                 "eamodio.gitlens",
                 "GitHub.copilot",
                 "GitHub.copilot-chat",
+                "streetsidesoftware.code-spell-checker"
             ],
             "settings": {
                 "terminal.integrated.shell.linux": "/bin/bash"
