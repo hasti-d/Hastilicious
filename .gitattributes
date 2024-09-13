@@ -1,0 +1,7 @@
+# Treat all popular image file formats as Git LFS files
+*.png lfs filter=lfs.smudge
+*.jpg lfs filter=lfs.smudge
+*.jpeg lfs filter=lfs.smudge
+*.gif lfs filter=lfs.smudge
+*.webp lfs filter=lfs.smudge
+*.svg lfs filter=lfs.smudge
