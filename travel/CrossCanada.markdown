@@ -30,7 +30,7 @@ We stayed here until September 7, soaking in the tranquility and beauty of the p
 
 ## Day 4: September 7, 2023 – Lake Superior to Dryden, Ontario via Thunder Bay
 
-![Kakabeka Falls](photos/kakabeka.jpg)
+![Kakabeka Falls](photos/KakabekaFalls.jpg)
 
 On September 7, we left Lake Superior and continued our journey towards **Thunder Bay**, stopping at the iconic **Terry Fox Memorial**. The emotional experience of visiting this tribute to Canada’s hero was heightened by the breathtaking views of the northern landscape.
 
@@ -107,7 +107,8 @@ After five days of outdoor adventure, we packed up and began the scenic drive fr
 ## Day 16: September 19, 2023 – Kamloops to Surrey, BC
 The following day, we reached **Surrey**, a city just outside of Vancouver, where we took a much-needed break to rest and recharge. **Vancouver** became our base from September 19 to 25 as we explored the city and finalized preparations for the next phase of our journey.
 
-![Made it To the West Coast of Canada!](photos/BC2_MadeIt.jpg)
+![Made it To the West Coast of Canada!](photos/BC2_MadeIt.PNG)
+
 - **Final Thoughts:** Vancouver’s beauty is hard to beat, with its combination of urban life and proximity to nature. Whether you’re here for a day or a week, take time to explore **Stanley Park**, the **Sea-to-Sky Highway**, and the **Grouse Mountain Skyride**.
 
 **#VancouverExploration #SeaToSkyHighway #StanleyParkAdventures**
