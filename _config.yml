@@ -24,8 +24,8 @@ email: dave.hasti@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A creative analyst with a background in health care and a passion for data.
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Hastilicious" # the subpath of your site, e.g. /blog
+url: "https://hasti-d.github.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 linkedin_username: hasti-dave
 github_username:  Hastilicious
