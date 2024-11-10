@@ -7,9 +7,9 @@ permalink: /resume
 # <span style="color: purple;">**Hasti**</span> Dave : Lead Health Data Analyst
 
 > **Pronounced**: Hus-tee Da-Way
-> </br>
+> <br/>
 > **Pronouns**: She/Her
-> </br>
+> <br/>
 > **E-Mail**: [dave.hasti@gmail.com](mailto:dave.hasti@gmail.com)
 > <br/>
 > **Phone#**: [716-951-9018](tel:+17169519018)
