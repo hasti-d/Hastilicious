@@ -4,24 +4,37 @@ title: Resume
 permalink: /resume
 ---
 
-# **Hasti Dave - Lead Health Data Analyst**
-
-<h5>
-    Pronounced: Hus-tee Da-Way
-    <br/>
-    Pronouns: She/Her
-</h5>
+# <span style="color: purple;">**Hasti**</span> Dave : Lead Health Data Analyst
+_(Pronounced: Hus-tee Da-Way, Pronouns: She/Her)_
 
 _Experienced health data analyst with a deep background in healthcare quality measurement, specializing in HEDIS and NCQA standards. Highly adaptable and skilled at leveraging emerging AI tools to work smarter and faster, with a dynamic, flexible approach that fits seamlessly into diverse teams. Ready and eager to learn in evolving environments._
 
 _____
 
+# Professional Highlights
+
+- **Subject Matter Expertise in HEDIS and NCQA Standards:** Over the past 7 years, developed deep expertise in HEDIS and NCQA metrics, becoming the go-to subject matter expert within the company. Leveraged this knowledge to drive improvements in reporting accuracy and support data-driven quality initiatives.
+
+- **Leveraging AI for Enhanced Efficiency:** Skilled in utilizing cutting-edge AI tools (ChatGPT, Google Gemini, Anthropic Claude) to streamline analysis, boost productivity, and produce rapid insights in healthcare data. Proactively adapts to new tools to stay ahead in a dynamic healthcare landscape.
+
+- **Automation and Scalability with Python:** Experienced in using Python to automate repetitive tasks, improve data accuracy, and scale analytical processes, significantly reducing manual workload and increasing operational efficiency.
+
+_____
+
 # Skills Matrix
 
-| **Healthcare Analytics Tools**  | Azure Data Studio           | Claims & Clinical Data Analysis | Service Now    |
-| SQL Server                       | SQL Server Management Studio| Python                          | MS Office      |
-| Snowflake                        | Oracle Developer Studio     | R                               | MS Teams       |
-| Oracle                           | VS Code                     | Alteryx ETL Engine              | Power BI       |
+| **Healthcare Analytics Tools** | Azure Data Studio            | Claims & Clinical Data Analysis | Service Now |
+| SQL Server                     | SQL Server Management Studio | Python                          | MS Office   |
+| Snowflake                      | Oracle Developer Studio      | R                               | MS Teams    |
+| Oracle                         | VS Code                      | Alteryx ETL Engine              | Power BI    |
+
+# Standards and Regulations
+
+| **HEDIS**                   | **NCQA**                       | **HIPAA**                      | **PCMH**                         |
+| --------------------------- | ------------------------------ | ------------------------------ | -------------------------------- |
+| **Healthcare Effectiveness Data and Information Set** | **National Committee for Quality Assurance** | **Health Insurance Portability and Accountability Act** | **Patient-Centered Medical Home** |
+| Focus on quality care and performance metrics | Standards for health care organizations | Privacy and security standards for health data | Model for organizing primary care |
+| Experienced in HEDIS measure reporting and analysis | Knowledge of NCQA accreditation processes | Compliance with patient data privacy regulations | Expertise in PCMH care delivery models |
 
 _____
 
@@ -35,6 +48,8 @@ _____
         - Developed and standardized key metrics that reduced fare evasion rates from 8% to 3%, achieving a 62.5% improvement.
         - Produced executive-level dashboards in Power BI, providing timely insights on customer behavior and operational trends.
         - Coordinated with cross-functional teams to streamline data extraction from hardware vendors, enhance SQL database organization, and unify reporting practices.
+
+    <br />
 
 - #### [**CareFirst, Blue Cross Blue Shield of Maryland**](https://www.carefirst.com/) **, Baltimore, MD**
 
