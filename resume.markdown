@@ -5,7 +5,19 @@ permalink: /resume
 ---
 
 # <span style="color: purple;">**Hasti**</span> Dave : Lead Health Data Analyst
-_(Pronounced: Hus-tee Da-Way, Pronouns: She/Her)_
+
+> **Pronounced**: Hus-tee Da-Way
+> </br>
+> **Pronouns**: She/Her
+> </br>
+> **E-Mail**: [dave.hasti@gmail.com](mailto:dave.hasti@gmail.com)
+> <br/>
+> **Phone#**: [716-951-9018](tel:+17169519018)
+> <br/>
+> **LinkedIn**: <a href="https://www.linkedin.com/in/hasti-dave/" target="_blank">https://www.linkedin.com/in/hasti-dave</a>
+> <br/>
+> **Citizenship**: Canadian (can work under TN visa)
+> <br/>
 
 _Experienced health data analyst with a deep background in healthcare quality measurement, specializing in HEDIS and NCQA standards. Highly adaptable and skilled at leveraging emerging AI tools to work smarter and faster, with a dynamic, flexible approach that fits seamlessly into diverse teams. Ready and eager to learn in evolving environments._
 
