@@ -28,7 +28,7 @@ baseurl: "/Hastilicious" # the subpath of your site, e.g. /blog
 url: "https://hasti-d.github.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 linkedin_username: hasti-dave
-github_username:  Hastilicious
+github_username:  hasti-d
 instagram_username: Hastilitious
 
 # Build settings
