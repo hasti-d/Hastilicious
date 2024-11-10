@@ -12,7 +12,7 @@ permalink: /resume
 > <br/>
 > **E-Mail**: [dave.hasti@gmail.com](mailto:dave.hasti@gmail.com)
 > <br/>
-> **Phone#**: [716-951-9018](tel:+17169519018)
+> **Phone#**: [647-335-5965](tel:+16473355965)
 > <br/>
 > **LinkedIn**: <a href="https://www.linkedin.com/in/hasti-dave/" target="_blank">https://www.linkedin.com/in/hasti-dave</a>
 > <br/>
