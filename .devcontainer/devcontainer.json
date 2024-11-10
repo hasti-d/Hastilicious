@@ -32,9 +32,10 @@
     "customizations": {
         "vscode": {
             "extensions": [
+                "Codeium.codeium",
                 "eamodio.gitlens",
-                "GitHub.copilot",
-                "GitHub.copilot-chat",
+                "esbenp.prettier-vscode",
+                "github.vscode-github-actions",
                 "streetsidesoftware.code-spell-checker"
             ],
             "settings": {
