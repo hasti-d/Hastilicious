@@ -1,5 +1,7 @@
 ---
 layout: null
+title: Resume
+permalink: /resume
 ---
 
 <html>

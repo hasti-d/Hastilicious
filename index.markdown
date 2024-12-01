@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Dive into my [About](/about) page to explore my journey or head over to my [Resume](/resume) to view the milestones of my tech expedition.
+Dive into my [About](/about) page to explore my journey or head over to my [Resume](https://hasti-d.github.io/) to view the milestones of my tech expedition.
